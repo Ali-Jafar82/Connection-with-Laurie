@@ -1,5 +1,7 @@
 vless://zeconnect@q.lrr.lol:443?mode=auto&path=/&type=xhttp&encryption=none&security=none&extra=%7B%22scMaxEachPostBytes%22:%221000000%22,%22scMinPostsIntervalMs%22:%2230%22,%22xPaddingBytes%22:%22100-1000%22%7D#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&security=none&headerType=none&encryption=none#Laurie's Hamrah sub
+vless://23e35579-baad-487c-80de-aca4475d50b2@199.232.78.160:443?sni=speedtest.net&insecure=1&allowInsecure=1&host=oppressed-distract-uncurled-grooving-bonding-renewal.global.ssl.fastly.net&mode=auto&security=tls&type=xhttp&path=/assets&encryption=none#Laurie's Hamrah sub
+vless://23e35579-baad-487c-80de-aca4475d50b2@167.82.2.79:443?path=/assets&sni=speedtest.net&type=xhttp&mode=auto&encryption=none&security=tls&host=oppressed-distract-uncurled-grooving-bonding-renewal.global.ssl.fastly.net&insecure=1&allowInsecure=1#Laurie's Hamrah sub
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?encryption=none&headerType=none&type=tcp&security=none#Laurie's Hamrah sub
 vless://bb3cf872-6d29-440f-a942-bdccda8e5e2c@137.74.115.126:2082?type=tcp&security=none&encryption=none&headerType=none#Laurie's Hamrah sub
 vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?encryption=none&security=reality&sni=lenovoglobal.com&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&type=grpc&packetEncoding=xudp#Laurie's Hamrah sub

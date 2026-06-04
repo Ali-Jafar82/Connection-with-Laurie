@@ -1,7 +1,5 @@
 vless://zeconnect@q.lrr.lol:443?mode=auto&path=/&type=xhttp&encryption=none&security=none&extra=%7B%22scMaxEachPostBytes%22:%221000000%22,%22scMinPostsIntervalMs%22:%2230%22,%22xPaddingBytes%22:%22100-1000%22%7D#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&security=none&headerType=none&encryption=none#Laurie's Hamrah sub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNNUNnM2ZqQkZXRXJHRXMrRldLNnl4V2xScjNkMjQ4ZDRQNmJjN3dqMUhNPQ==@137.74.115.126:8388#Laurie's Hamrah sub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNNUNnM2ZqQkZXRXJHRXMrRldLNnl4V2xScjNkMjQ4ZDRQNmJjN3dqMUhNPQ==@137.74.115.126:8388#Laurie's Hamrah sub
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?encryption=none&headerType=none&type=tcp&security=none#Laurie's Hamrah sub
 vless://bb3cf872-6d29-440f-a942-bdccda8e5e2c@137.74.115.126:2082?type=tcp&security=none&encryption=none&headerType=none#Laurie's Hamrah sub
 vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?encryption=none&security=reality&sni=lenovoglobal.com&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&type=grpc&packetEncoding=xudp#Laurie's Hamrah sub
@@ -10,7 +8,6 @@ vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.221.74:443?security=reality&
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.217.222:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#Laurie's Hamrah sub
 vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.209.214:443?security=reality&encryption=none&pbk=9LTpivOtvUds71_Hxmqk7vfeMx7JeHB0aJuaQX6xXzI&headerType=&fp=chrome&type=tcp&sni=microsoft.com&sid=065ee439#Laurie's Hamrah sub
 vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.233.122:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ws&security=none&encryption=none&host=gre.greentab.ir&type=ws#Laurie's Hamrah sub
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@202.85.76.170:13223#Laurie's Hamrah sub
 vless://6e593426-1a8e-4226-984f-0ea174e218c7@216.24.57.1:443?encryption=none&security=tls&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&path=%2Fid-pusat#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
@@ -105,8 +102,6 @@ vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&se
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@216.38.170.155:13223#Laurie's Hamrah sub
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223#Laurie's Hamrah sub
 vless://45d9e1d7-2853-4b7e-8bad-2dd08bb87cd4@104.27.66.214:443?encryption=none&security=tls&sni=sertraline.adaspoloandco.com&insecure=0&allowInsecure=0&type=ws&host=sertraline.adaspoloandco.com&path=%2Fdownload.php#Laurie's Hamrah sub
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?headerType=none&type=tcp&security=none&encryption=none#Laurie's Hamrah sub
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=&encryption=none&headerType=&type=tcp#Laurie's Hamrah sub
@@ -134,7 +129,6 @@ vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@varzesh3.com:2095?path=%2Frat&secur
 vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@varzesh3.com:2095?path=%2Frat&security=&encryption=none&host=rat.skycmd.org&type=ws#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp#Laurie's Hamrah sub
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=&encryption=none&headerType=none&type=tcp#Laurie's Hamrah sub
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@216.38.170.155:13223#Laurie's Hamrah sub
 vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?path=%2F&security=tls&encryption=none&insecure=0&host=backend.parhamm2.ir&type=ws&allowInsecure=0&sni=backend.parhamm2.ir#Laurie's Hamrah sub
 vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?path=%2F&security=tls&encryption=none&insecure=0&host=backend.parhamm2.ir&fp=chrome&type=ws&allowInsecure=0&sni=backend.parhamm2.ir#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=&type=tcp#Laurie's Hamrah sub

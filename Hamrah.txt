@@ -95,7 +95,6 @@ vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&se
 vless://266c0d10-d0f4-41f2-9d82-37cedf863fe7@216.24.57.1:443?encryption=none&security=tls&sni=cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=cyylr.eu.cc&path=%2Fin-pdr#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
-
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?encryption=none&security=tls&sni=support.zoom.us.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=support.zoom.us.cyylr.eu.cc&path=%2Fid-pusat#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub

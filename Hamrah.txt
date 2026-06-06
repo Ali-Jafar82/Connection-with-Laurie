@@ -1,56 +1,52 @@
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkxhdXJpZSdzIEhhbXJhaCBzdWIiLA0KICAiYWRkIjogIjE4NS4xNDMuMjMzLjIwMCIsDQogICJwb3J0IjogIjg4ODAiLA0KICAiaWQiOiAiYzUzNDA4NWUtMGM1Yy00ZTMxLWIzYjgtYjBkZGRlNTUxYTgzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJiYW1hbmdhZGFtYmV6YW4uc3BlZWR0ZXN0MjAyNi5pciIsDQogICJwYXRoIjogIi9odWdtZSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
-vless://zeconnect@q.lrr.lol:443?encryption=none&security=none&type=xhttp&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#Laurie%27s%20Hamrah%20sub
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://bb3cf872-6d29-440f-a942-bdccda8e5e2c@137.74.115.126:2082?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?encryption=none&security=reality&sni=lenovoglobal.com&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&type=grpc#Laurie%27s%20Hamrah%20sub
-vless://1411253e-75f1-4bbe-b5fd-8f9596b72c10@www.speedtest.net:2096?encryption=none&security=tls&sni=mstun.electrotech.qzz.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=mstun.electrotech.qzz.io&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%2210-50%22%7D#Laurie%27s%20Hamrah%20sub
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.221.74:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=vQq6jRH1DI-wgPIx9zdQ6mtgYu9RK9MYAAX89qRu0hY&sid=9bd2e733&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.217.222:8686?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.209.214:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=9LTpivOtvUds71_Hxmqk7vfeMx7JeHB0aJuaQX6xXzI&sid=065ee439&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.233.122:80?encryption=none&security=none&type=ws&host=gre.greentab.ir&path=%2Fws#Laurie%27s%20Hamrah%20sub
-vless://6e593426-1a8e-4226-984f-0ea174e218c7@216.24.57.1:443?encryption=none&security=tls&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&path=%2Fid-pusat#Laurie%27s%20Hamrah%20sub
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none&path=%2F#Laurie%27s%20Hamrah%20sub
-vless://565b50d4-604d-4a60-9fc2-d9d3dac0aec6@216.24.57.1:443?encryption=none&security=tls&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&path=%2Fid-pusat#Laurie%27s%20Hamrah%20sub
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&sni=3.71.187.131&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://266c0d10-d0f4-41f2-9d82-37cedf863fe7@216.24.57.1:443?encryption=none&security=tls&sni=cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=cyylr.eu.cc&path=%2Fin-pdr#Laurie%27s%20Hamrah%20sub
-vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.233.122:80?encryption=none&security=none&type=ws&host=gre.greentab.ir&path=%2Fws#Laurie%27s%20Hamrah%20sub
-vless://5dbfed06-dd62-48c0-8e39-b4835defcdb0@216.24.57.1:443?encryption=none&security=tls&sni=investors.spotify.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=investors.spotify.com.cyylr.eu.cc&path=%2Fsg-amz#Laurie%27s%20Hamrah%20sub
-vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@snapp.ir:80?encryption=none&security=none&type=ws&host=gre.greentab.ir&path=%2Fws#Laurie%27s%20Hamrah%20sub
-vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.234.122:80?encryption=none&security=none&type=ws&host=gre.greentab.ir&path=%2Fws#Laurie%27s%20Hamrah%20sub
-vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=%2FTignaliSWithYou&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#Laurie%27s%20Hamrah%20sub
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@217.16.21.116:5443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://19804f6b-3661-4eca-b294-ba37196dab5b@216.24.57.1:443?encryption=none&security=tls&sni=graph.instagram.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=graph.instagram.com.cyylr.eu.cc&path=%2Fid-tksi#Laurie%27s%20Hamrah%20sub
-trojan://humanity@216.24.57.1:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmloud.com&path=%2Fassignment#Laurie%27s%20Hamrah%20sub
-trojan://humanity@216.24.57.1:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#Laurie%27s%20Hamrah%20sub
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@216.38.170.155:13223?#Laurie%27s%20Hamrah%20sub
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223?#Laurie%27s%20Hamrah%20sub
-hysteria2://Masir_Sefid@18.157.222.169:54040?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie%27s%20Hamrah%20sub
-hysteria2://Masir_Sefid@18.157.222.169:44044?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie%27s%20Hamrah%20sub
-hysteria2://Masir_Sefid@18.157.222.169:4040?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie%27s%20Hamrah%20sub
-hysteria2://Masir_Sefid@18.157.222.169:443?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie%27s%20Hamrah%20sub
-hysteria2://Masir_Sefid@18.157.222.169:8880?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie%27s%20Hamrah%20sub
-hysteria2://Masir_Sefid@18.157.222.169:1040?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie%27s%20Hamrah%20sub
-hysteria2://Masir_Sefid@18.157.222.169:444?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie%27s%20Hamrah%20sub
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@202.85.76.170:13223?#Laurie%27s%20Hamrah%20sub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNNUNnM2ZqQkZXRXJHRXMrRldLNnl4V2xScjNkMjQ4ZDRQNmJjN3dqMUhNPQ@137.74.115.126:8388?#Laurie%27s%20Hamrah%20sub
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#Laurie%27s%20Hamrah%20sub
-vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?encryption=none&security=tls&sni=support.zoom.us.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=support.zoom.us.cyylr.eu.cc&path=%2Fid-pusat#Laurie%27s%20Hamrah%20sub
-vless://45d9e1d7-2853-4b7e-8bad-2dd08bb87cd4@104.27.66.214:443?encryption=none&security=tls&sni=sertraline.adaspoloandco.com&insecure=0&allowInsecure=0&type=ws&host=sertraline.adaspoloandco.com&path=%2Fdownload.php#Laurie%27s%20Hamrah%20sub
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@77.237.85.198:2026?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@45.80.110.178:2096?security=tls&sni=vle.amclubdns.dpdns.org&insecure=1&allowInsecure=1&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@varzesh3.com:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=%2Frat#Laurie%27s%20Hamrah%20sub
-vless://b8c88c2b-f016-4bca-b306-9ff4968c24aa@snapp.ir:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=%2Frat#Laurie%27s%20Hamrah%20sub
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@77.237.85.198:2026?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
-vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?encryption=none&security=tls&sni=backend.parhamm2.ir&insecure=0&allowInsecure=0&type=ws&host=backend.parhamm2.ir&path=%2F#Laurie%27s%20Hamrah%20sub
-vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?encryption=none&security=tls&sni=backend.parhamm2.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=backend.parhamm2.ir&path=%2F#Laurie%27s%20Hamrah%20sub
-vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?encryption=none&security=reality&sni=lenovoglobal.com&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&type=grpc#Laurie%27s%20Hamrah%20sub
-vless://b8c88c2b-f016-4bca-b306-9ff4968c24aa@185.143.233.122:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=%2Frat#Laurie%27s%20Hamrah%20sub
-vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@185.143.235.201:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=%2Frat#Laurie%27s%20Hamrah%20sub
+vless://zeconnect@q.lrr.lol:443?encryption=none&security=none&type=xhttp&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#Laurie's Hamrah sub
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
+vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
+vless://bb3cf872-6d29-440f-a942-bdccda8e5e2c@137.74.115.126:2082?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
+vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?encryption=none&security=reality&sni=lenovoglobal.com&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&type=grpc#Laurie's Hamrah sub
+vless://1411253e-75f1-4bbe-b5fd-8f9596b72c10@www.speedtest.net:2096?encryption=none&security=tls&sni=mstun.electrotech.qzz.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=mstun.electrotech.qzz.io&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%2210-50%22%7D#Laurie's Hamrah sub
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.221.74:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=vQq6jRH1DI-wgPIx9zdQ6mtgYu9RK9MYAAX89qRu0hY&sid=9bd2e733&type=tcp&headerType=none#Laurie's Hamrah sub
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.217.222:8686?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f&type=tcp&headerType=none#Laurie's Hamrah sub
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.209.214:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=9LTpivOtvUds71_Hxmqk7vfeMx7JeHB0aJuaQX6xXzI&sid=065ee439&type=tcp&headerType=none#Laurie's Hamrah sub
+vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.233.122:80?encryption=none&security=none&type=ws&host=gre.greentab.ir&path=%2Fws#Laurie's Hamrah sub
+vless://6e593426-1a8e-4226-984f-0ea174e218c7@216.24.57.1:443?encryption=none&security=tls&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&path=%2Fid-pusat#Laurie's Hamrah sub
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none&path=%2F#Laurie's Hamrah sub
+vless://565b50d4-604d-4a60-9fc2-d9d3dac0aec6@216.24.57.1:443?encryption=none&security=tls&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&path=%2Fid-pusat#Laurie's Hamrah sub
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&sni=3.71.187.131&type=tcp&headerType=none#Laurie's Hamrah sub
+vless://266c0d10-d0f4-41f2-9d82-37cedf863fe7@216.24.57.1:443?encryption=none&security=tls&sni=cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=cyylr.eu.cc&path=%2Fin-pdr#Laurie's Hamrah sub
+vless://5dbfed06-dd62-48c0-8e39-b4835defcdb0@216.24.57.1:443?encryption=none&security=tls&sni=investors.spotify.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=investors.spotify.com.cyylr.eu.cc&path=%2Fsg-amz#Laurie's Hamrah sub
+vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@snapp.ir:80?encryption=none&security=none&type=ws&host=gre.greentab.ir&path=%2Fws#Laurie's Hamrah sub
+vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.234.122:80?encryption=none&security=none&type=ws&host=gre.greentab.ir&path=%2Fws#Laurie's Hamrah sub
+vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=%2FTignaliSWithYou&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#Laurie's Hamrah sub
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@217.16.21.116:5443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&type=tcp&headerType=none#Laurie's Hamrah sub
+vless://19804f6b-3661-4eca-b294-ba37196dab5b@216.24.57.1:443?encryption=none&security=tls&sni=graph.instagram.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=graph.instagram.com.cyylr.eu.cc&path=%2Fid-tksi#Laurie's Hamrah sub
+trojan://humanity@216.24.57.1:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmloud.com&path=%2Fassignment#Laurie's Hamrah sub
+trojan://humanity@216.24.57.1:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#Laurie's Hamrah sub
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@216.38.170.155:13223?#Laurie's Hamrah sub
+trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?security=tls&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1&type=ws&host=nleiyajji.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?encryption=none&security=tls&sni=sertraline.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sertraline.adaspoloandco.com&path=%2Fdownload.php
+vless://98c9f668-1f2f-4a6d-bd7a-606fab0ac035@151.101.108.223:443?encryption=none&security=tls&sni=default.ssl.fastly.net&fp=chrome&alpn=h3&insecure=1&allowInsecure=1&type=ws&host=jookeji.global.ssl.fastly.net&path=%2F#Laurie's Hamrah sub
+vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?encryption=none&security=tls&sni=bastani.purplrose.ir&fp=random&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=ws&host=bastani.purplrose.ir&path=%2F#Laurie's Hamrah sub
+vless://6d96c713-aca4-40dc-b066-60843059110f@104.16.6.70:443?encryption=none&security=tls&sni=cdn-pro6.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=1&allowInsecure=1&type=ws&host=cdn-pro6.postshup.ir.&path=%2Fnews#Laurie's Hamrah sub
+vless://7deb9c5a-b0d6-4112-8f31-931985066a7c@104.19.64.105:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#Laurie's Hamrah sub
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223?#Laurie's Hamrah sub
+hysteria2://Masir_Sefid@18.157.222.169:54040?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie's Hamrah sub
+hysteria2://Masir_Sefid@18.157.222.169:44044?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie's Hamrah sub
+hysteria2://Masir_Sefid@18.157.222.169:4040?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie's Hamrah sub
+hysteria2://Masir_Sefid@18.157.222.169:443?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie's Hamrah sub
+hysteria2://Masir_Sefid@18.157.222.169:8880?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie's Hamrah sub
+hysteria2://Masir_Sefid@18.157.222.169:1040?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie's Hamrah sub
+hysteria2://Masir_Sefid@18.157.222.169:444?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#Laurie's Hamrah sub
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@202.85.76.170:13223?#Laurie's Hamrah sub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNNUNnM2ZqQkZXRXJHRXMrRldLNnl4V2xScjNkMjQ4ZDRQNmJjN3dqMUhNPQ@137.74.115.126:8388?#Laurie's Hamrah sub
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#Laurie's Hamrah sub
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?encryption=none&security=tls&sni=support.zoom.us.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=support.zoom.us.cyylr.eu.cc&path=%2Fid-pusat#Laurie's Hamrah sub
+vless://45d9e1d7-2853-4b7e-8bad-2dd08bb87cd4@104.27.66.214:443?encryption=none&security=tls&sni=sertraline.adaspoloandco.com&insecure=0&allowInsecure=0&type=ws&host=sertraline.adaspoloandco.com&path=%2Fdownload.php#Laurie's Hamrah sub
+vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@77.237.85.198:2026?encryption=none&security=none&type=tcp&headerType=none#Laurie's Hamrah sub
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@45.80.110.178:2096?security=tls&sni=vle.amclubdns.dpdns.org&insecure=1&allowInsecure=1&type=tcp&headerType=none#Laurie's Hamrah sub
+vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@varzesh3.com:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=%2Frat#Laurie's Hamrah sub
+vless://b8c88c2b-f016-4bca-b306-9ff4968c24aa@snapp.ir:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=%2Frat#Laurie's Hamrah sub
+vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?encryption=none&security=tls&sni=backend.parhamm2.ir&insecure=0&allowInsecure=0&type=ws&host=backend.parhamm2.ir&path=%2F#Laurie's Hamrah sub
+vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?encryption=none&security=tls&sni=backend.parhamm2.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=backend.parhamm2.ir&path=%2F#Laurie's Hamrah sub
+vless://b8c88c2b-f016-4bca-b306-9ff4968c24aa@185.143.233.122:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=%2Frat#Laurie's Hamrah sub
+vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@185.143.235.201:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=%2Frat#Laurie's Hamrah sub

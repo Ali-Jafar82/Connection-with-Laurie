@@ -50,5 +50,7 @@ trojan://telegram-id-privatevpns@13.36.253.90:22222?security=tls&sni=trojan.burg
 vless://70298879-632b-459d-a664-bda9f5e769e2@104.16.75.210:443?encryption=none&security=tls&sni=mi-ads.ariyuz.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#Laurie%27s%20Hamrah%20sub
 vless://75a000b2-06c6-4d4a-a934-9c376a82ec53@38.107.237.51:51040?encryption=none&security=none&type=tcp&headerType=http#Laurie%27s%20Hamrah%20sub
 vless://60269468-7320-4707-b262-4e5d362f26ba@91.108.189.246:8443?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
+vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@snapp.ir:80?encryption=none&security=none&type=ws&host=gre.greentab.ir&path=%2Fws#Laurie%27s%20Hamrah%20sub
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#Laurie%27s%20Hamrah%20sub
 
 
